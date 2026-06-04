@@ -6,5 +6,8 @@ An evolving portfolio of data science projects demonstrating practical applicati
 ### Task Management System (Python)
 https://github.com/StephanieBergh/Task_Manager.git
 
+### Customer Churn Prediction Model (Python, Machine Learning)
+https://github.com/StephanieBergh/Customer-Churn-Prediction-Model-Python-Machine-Learning-.git
+
 ### Author
 Stephanie Bergh
