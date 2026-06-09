@@ -9,5 +9,8 @@ https://github.com/StephanieBergh/Task_Manager.git
 ### Customer Churn Prediction Model (Python, Machine Learning)
 https://github.com/StephanieBergh/Customer-Churn-Prediction-Model-Python-Machine-Learning-.git
 
-### Author
+### Building a Neural Network - FashionMNIST dataset
+https://github.com/StephanieBergh/Neural-Network---FashionMNIST-dataset.git
+
+## Author
 Stephanie Bergh
