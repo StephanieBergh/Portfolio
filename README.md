@@ -34,7 +34,7 @@ https://github.com/StephanieBergh/Neural-Network---FashionMNIST-dataset.git
 ## Author
 **Stephanie Bergh**
 
-Junior Data Analyst | Python Developer
+Junior Data Analyst
 
 GitHub: https://github.com/StephanieBergh
 
