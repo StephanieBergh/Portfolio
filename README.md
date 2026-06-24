@@ -4,6 +4,10 @@ An evolving portfolio of data science projects demonstrating practical applicati
 ## Projects
 
 ### Task Management System (Python)
+Task Manager is a command-line application written in Python that allows users to create, manage, edit, and track tasks. The system supports user authentication, task assignment, task completion tracking, report generation, and administrative functions.
+
+The project demonstrates object-oriented programming principles, file handling, data validation, and modular software design.
+
 https://github.com/StephanieBergh/Task_Manager.git
 
 ### Customer Churn Prediction Model (Python, Machine Learning)
