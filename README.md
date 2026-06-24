@@ -32,4 +32,12 @@ This project implements a Multilayer Perceptron (MLP) using PyTorch to classify 
 https://github.com/StephanieBergh/Neural-Network---FashionMNIST-dataset.git
 
 ## Author
-Stephanie Bergh
+**Stephanie Bergh**
+
+Junior Data Analyst | Python Developer
+
+GitHub: https://github.com/StephanieBergh
+
+LinkedIn: https://www.linkedin.com/in/stephanie-bergh-142aa818a/
+
+---
